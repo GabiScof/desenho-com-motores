@@ -1,0 +1,5 @@
+class Env:
+    COM = "COM5"
+    POSICAO_INCIAL = (20,20)
+    RAIO_CARRETEL = 20
+    DISTANCIA_MOTORES = 40
